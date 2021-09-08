@@ -15,10 +15,8 @@ Directions to New york
 >>From kansas airport i can get direct flight to my destination new york.
 
 *Items that should be brought to New york for maximum enjoyment. 
-
 ---
-
- *Electronic gadgets
+*Electronic gadgets
        *Camera
        *Mobile phone
        *Speaker
