@@ -9,7 +9,7 @@
 
 # This table includes the food items that everyone should try.It tastes very good and also healthy.
 ---
-| Item | Place | Price |
+| Item | Location | Price |
 | ---| ---| ---: |
 | Biryani | Godavari | $10 |
 | Burger | Burger king | $14 |
