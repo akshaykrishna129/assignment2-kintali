@@ -25,7 +25,7 @@ Directions to New york
    
 *Dresses
 
-[To know about me](AboutMe.md)
+[To know more details about me click on this link](AboutMe.md)
 
 
 
