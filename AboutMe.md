@@ -5,6 +5,21 @@
 
 ![Mypicture](akshaykrishnaa.jpg)
 
+---
+
+# This table includes the food items that everyone should try.It tastes very good and also healthy.
+---
+| Item | Place | Price |
+| ---| ---| ---: |
+| Biryani | Hyderabad | $10 |
+| Burger | Burger king | $14 |
+| Haleem |  Hyderabad | $17 |
+| Samosa | Hyderabad | $7 |
+
+
+
+
+
 
 
 
