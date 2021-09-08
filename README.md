@@ -8,11 +8,15 @@ It is one of the world's leading metropolises for art, fashion, food and theater
 
 Directions to New york
 ---
->*Maryville to kansas
->> By car its distance is 100 miles which  takes approximately 2 hours to kansas city .
->
->*Kansas to New York
->>From kansas airport i can get direct flight to my destination new york.
+1.Maryville to kansas
+   1. Continue to Jefferson Township. Take the I-29 S/US-71 S exit from US-71 S.
+   2. Follow I-29 S to E 11th St in KCMO. Take exit 2J from I-70 E.
+   3.Continue on E 11th St to kansas.
+
+2.Kansas to New York
+   1.Get on I-70 E from E 12th St.
+   2.Continue on I-70 E. Take I-76, I-81 N and I-78 E to Holland Tunnel in Manhattan, New York.
+   3.Continue on Holland Tunnel. Take Varick St, W Broadway and Chambers St to Steve Flanders Square.
 
 *Items that should be brought to New york for maximum enjoyment. 
 ---
