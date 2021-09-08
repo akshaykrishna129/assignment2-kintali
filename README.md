@@ -10,6 +10,7 @@ Directions to New york
 ---
 >*Maryville to kansas
 >> By car its distance is 100 miles which  takes approximately 2 hours to kansas city .
+>
 >*Kansas to New York
 >>From kansas airport i can get direct flight to my destination new york.
 
