@@ -8,9 +8,10 @@ It is one of the world's leading metropolises for art, fashion, food and theater
 
 Directions to New york
 ---
->ssvkjhadkjfk
->>sfjbfdbvh
->>>bnnv
+>*Maryville to kansas
+>> By car its distance is 100 miles which  takes approximately 2 hours to kansas city .
+>*Kansas to New York
+>>From kansas airport i can get direct flight to my destination new york.
 
 
 
