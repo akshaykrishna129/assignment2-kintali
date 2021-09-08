@@ -16,6 +16,8 @@ Directions to New york
 
 *Items that should be brought to New york for maximum enjoyment. 
 
+---
+
  *Electronic gadgets
        *Camera
        *Mobile phone
@@ -26,6 +28,8 @@ Directions to New york
    *Dresses
 
    [know about me](AboutMe.md)
+
+
 
 
 
