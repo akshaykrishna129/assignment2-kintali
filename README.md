@@ -14,9 +14,9 @@ Directions to New york
    3.Continue on E 11th St to kansas.
 
 2.Kansas to New York
-   1.Get on I-70 E from E 12th St.
-   2.Continue on I-70 E. Take I-76, I-81 N and I-78 E to Holland Tunnel in Manhattan, New York.
-   3.Continue on Holland Tunnel. Take Varick St, W Broadway and Chambers St to Steve Flanders Square.
+   1. Get on I-70 E from E 12th St.
+   2. Continue on I-70 E. Take I-76, I-81 N and I-78 E to Holland Tunnel in Manhattan, New York.
+   3. Continue on Holland Tunnel. Take Varick St, W Broadway and Chambers St to Steve Flanders Square.
 
 *Items that should be brought to New york for maximum enjoyment. 
 ---
