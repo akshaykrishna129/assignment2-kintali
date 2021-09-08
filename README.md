@@ -17,15 +17,15 @@ Directions to New york
 *Items that should be brought to New york for maximum enjoyment. 
 ---
 *Electronic gadgets
-       *Camera
-       *Mobile phone
-       *Speaker
+    *Camera
+    *Mobile phone
+    *Speaker
    
-   *Car
+*Car
    
-   *Dresses
+*Dresses
 
-   [know about me](AboutMe.md)
+[know about me](AboutMe.md)
 
 
 
