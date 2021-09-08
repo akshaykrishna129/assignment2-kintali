@@ -16,11 +16,10 @@ Directions to New york
 
 *Items that should be brought to New york for maximum enjoyment. 
 
-    *Electronic gadgets
+ *Electronic gadgets
        *Camera
        *Mobile phone
        *Speaker
-
    *Car
    
    *Dresses
